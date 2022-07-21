@@ -11,11 +11,11 @@ The Colorado Board of Elections is conducting an election audit for a recent loc
 
 ## Resources
 ### Data Source 
--election_results.csv
+- election_results.csv
 
 ### Software
--Python 3.7.6
--Visual Studio Code 1.69
+- Python 3.7.6
+- Visual Studio Code 1.69
 
 ## Summary
 The final Python script revealed that the total number of votes cast in the congressional election was 369,711. The complete list of candidates who received votes consisted of Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane. Charles Casper Stockham received 85,213 votes (23.0% of total votes), Diana DeGette received 272,892 votes (73.8% of total votes), and Raymon Anthony Doane received 11,606 votes (3.1% of total votes). The winner of the election based on popular vote was Diana DeGette with 73.8% of all votes.
