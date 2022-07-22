@@ -205,4 +205,4 @@ This was derived with the following relevant code:
     print(winning_candidate_summary)
 
 ## Election-Audit Summary
-The code used for this analysis is dynamic and can be modified to analyze future elections. This script can be modified to analyze federal elections by incorporating the appropiate lists, dictionaries, and variables for states instead of counties. The code can also be modifed to analyze the outcome of state or national elections to determine how a particular party is performing senatorial districts by incorporating the appropiate lists, dictionaries, and variables for political parties instead of counties.
+The code used for this analysis is dynamic and can be modified to analyze future elections. This script can be modified to analyze federal elections by incorporating the appropiate lists, dictionaries, and variables for states instead of counties. The code can also be modifed to predict the outcome of state or national elections or to determine how a particular party is performing in diferent senatorial districts by incorporating the appropiate lists, dictionaries, and variables for political parties instead of counties.
