@@ -26,7 +26,7 @@ The full python script can be referenced here: https://github.com/lkachury/Elect
 
 ### 1. How many votes were cast in this congressional election?
 The analysis revealed that the total number of votes cast in the congressional election was 369,711. 
-This was derived with the following code:
+This was derived with the following relevant code:
 
     # Add our dependencies.
     import csv
@@ -205,8 +205,4 @@ This was derived with the following relevant code:
     print(winning_candidate_summary)
 
 ## Election-Audit Summary
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-
-There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. 
-
-He expects the code used for this analysis should be dynamic to be able to reuse in future for not only other congressional districts but also for senatorial districts and local elections.
+The code used for this analysis is dynamic and can be modified to analyze future elections. This script can be modified to analyze federal elections by incorporating the appropiate lists, dictionaries, and variables for states instead of counties. The code can also be modifed to analyze the outcome of state or national elections to determine how a particular party is performing senatorial districts by incorporating the appropiate lists, dictionaries, and variables for political parties instead of counties.
