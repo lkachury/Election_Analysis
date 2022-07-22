@@ -19,6 +19,7 @@ The Colorado Board of Elections is conducting an election audit for a recent loc
 
 ## Election-Audit Results
 The images below displays the election results printed to the command line and saved to a text file: 
+
 ![election results](https://user-images.githubusercontent.com/108038989/180363444-998a4037-8f60-4460-af8f-c86c25b5bbc1.png)
 
 ### 1. How many votes were cast in this congressional election?
