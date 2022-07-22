@@ -22,6 +22,8 @@ The images below displays the election results printed to the command line and s
 
 ![election results](https://user-images.githubusercontent.com/108038989/180363444-998a4037-8f60-4460-af8f-c86c25b5bbc1.png)
 
+The full python script can be referenced here: https://github.com/lkachury/Election_Analysis/blob/main/PyPoll_Challenge.py
+
 ### 1. How many votes were cast in this congressional election?
 The analysis revealed that the total number of votes cast in the congressional election was 369,711. 
 This was derived with the following code:
